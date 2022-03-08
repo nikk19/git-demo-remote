@@ -15,3 +15,6 @@ def square(x):
 #implemented cube
 def cube(x):
     return x*x*x
+
+def chk_num(n):
+    pass        #adding new func on remote repo
