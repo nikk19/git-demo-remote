@@ -15,3 +15,6 @@ def square(x):
 #implemented cube
 def cube(x):
     return x*x*x
+    
+def and_func(x,y):
+    return x and y
