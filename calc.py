@@ -1,15 +1,17 @@
 def addition(a,b,c):
     pass
 
+#implemented multiplication + addition
 def mul_add(a,b,c):
-    return a*b + c  #On master branch
+    return a*b + c 
     
 def xor(a,b):
-    return a^b  #Added implementation on coolFeature branch
+    return a^b  
     
-#func implementation is completed
+#implemented square 
 def square(x):
     return x*x
-    
+ 
+#implemented cube
 def cube(x):
     return x*x*x
