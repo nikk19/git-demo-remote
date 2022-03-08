@@ -17,4 +17,10 @@ def cube(x):
     return x*x*x
 
 def chk_num(n):
-    pass        #adding new func on remote repo
+    if(n>0):            #implementing chk_num on local_repo
+        print("positive num")
+    else:
+        print("negative num")
+    
+        
+
