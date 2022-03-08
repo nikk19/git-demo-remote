@@ -1,5 +1,5 @@
 def addition(a,b,c):
-    pass
+    return a+b+c
 
 #implemented multiplication + addition
 def mul_add(a,b,c):
